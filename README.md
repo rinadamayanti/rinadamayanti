@@ -1,6 +1,6 @@
 ### Hi, I'm Rina Damayanti 👋
 
-I'm from Indonesia and i do UI/UX Design for website or mobile app
+I'm from Indonesia and i do UI/UX Design for website or mobile app and still learning about design and programming
 
 <!--- stats & Trophy (start) -->
 <p align="center">
